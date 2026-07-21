@@ -1,0 +1,15 @@
+# Large model files - not meant for git, hosted separately (see README)
+*.gguf
+model/
+
+# Generated/regenerable files - not source, shouldn't be tracked
+__pycache__/
+*.pyc
+rag/index.json
+rag/*_results.jsonl
+rag/held_out_test_results.jsonl
+rag/batch_test_results.jsonl
+
+# OS/editor clutter
+.DS_Store
+Thumbs.db

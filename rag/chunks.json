@@ -1,0 +1,182 @@
+[
+  {
+    "id": "chunk_000",
+    "source_file": "aflatoxin_risk_factors.md",
+    "heading": "Aflatoxin risk factors - What aflatoxins are",
+    "text": "Aflatoxins are invisible, tasteless poisons produced by the mould *Aspergillus flavus* and close\nrelatives. They cannot be detected by sight, smell, or taste \u2014 visibly clean grain can still carry\ndangerous levels, and only a lab test confirms contamination for certain. Maize and groundnut\nare the most vulnerable staple crops; roughly a quarter of the maize and groundnut grown across\nSub-Saharan Africa is estimated to carry some level of contamination."
+  },
+  {
+    "id": "chunk_001",
+    "source_file": "aflatoxin_risk_factors.md",
+    "heading": "Aflatoxin risk factors - Why it matters",
+    "text": "Aflatoxin exposure is linked to liver cancer, suppressed immunity, and stunted growth in\nchildren, and can pass from mother to unborn child. Beyond health, contaminated crops lose\ncommercial value and can be rejected outright by premium buyers and export markets \u2014 export\nlimits across Africa generally sit between 10-20 parts per billion, tighter in the EU."
+  },
+  {
+    "id": "chunk_002",
+    "source_file": "aflatoxin_risk_factors.md",
+    "heading": "Aflatoxin risk factors - Conditions that raise the risk",
+    "text": "Contamination can begin in the field and worsens through harvest, drying, and storage.\nRisk climbs when several of these are present together:\n- Poor soil fertility and crop stress (unfertilised or drought-stressed plants are more\n  vulnerable to fungal invasion)\n- Insect damage \u2014 wounds created by pests like stem borer give the fungus an entry point\n- High humidity (above ~85%) combined with high temperatures (above ~25\u00b0C) during growth or\n  storage\n- Delayed harvesting, especially when mature crop is left standing or lying in the field\n- Slow or improper drying, or drying directly on bare ground\n- Traditional storage structures that don't control humidity or protect against rain"
+  },
+  {
+    "id": "chunk_003",
+    "source_file": "aflatoxin_risk_factors.md",
+    "heading": "Aflatoxin risk factors - Reducing the risk \u2014 the practical checklist",
+    "text": "1. Harvest promptly at maturity \u2014 don't let matured crop sit in the field.\n2. Remove and discard visibly damaged, insect-eaten, or diseased grain during sorting, both at\n   harvest and again during drying.\n3. Dry quickly and thoroughly on a clean raised surface to reach safe moisture content\n   (see moisture_and_drying.md).\n4. Store only fully dried grain, in a clean, ventilated structure, off the bare ground.\n5. Never mix newly harvested grain with older stored grain.\n6. Where available, biocontrol products such as Aflasafe \u2014 which introduce a harmless strain of\n   the same fungus to crowd out the toxin-producing strains \u2014 can reduce aflatoxin levels by\n   80-99% when applied at the correct crop stage (roughly 2-3 weeks before flowering for maize,\n   30-45 days after planting for groundnut) and combined with good field and storage practices.\n\n*Sources: IITA Farmers' Guide to Management of Aflatoxins in Maize and Groundnuts in Africa\n(2017); Ghana MoFA/CSIR-SARI, Appropriate Postharvest Practices for Improved Grain Storage\n(2017).*"
+  },
+  {
+    "id": "chunk_004",
+    "source_file": "container_cleaning_and_fumigation_safety.md",
+    "heading": "Cleaning storage containers between harvests - Safe, accessible practice: sweep and clean before reuse",
+    "text": "Before loading a new harvest into any storage container - a PICS bag, a traditional sack, a\ncrib, or a room used for bulk storage - sweep or vacuum out all old grain debris, insect\nremains, and dust first. Leftover material from a previous, possibly infested harvest is one of\nthe easiest ways a new, clean harvest gets contaminated on day one. This step is simple, safe,\nand requires no special equipment or training - it should be treated as a standard step, not an\noptional extra."
+  },
+  {
+    "id": "chunk_005",
+    "source_file": "container_cleaning_and_fumigation_safety.md",
+    "heading": "Cleaning storage containers between harvests - Chemical fumigation (phosphine) - important safety note",
+    "text": "Phosphine gas fumigation is a real, effective industrial method for eliminating insect\ninfestations in large-scale grain storage, and has been used since the 1950s. However, it is\n**highly toxic and dangerous to handle without proper training and equipment** - it requires\ncertified applicators, full protective equipment (sealed overalls, gloves, respirators with\ngas cartridges), gas-tight structures, and careful monitoring of gas concentration over several\ndays. It is legally restricted to licensed applicators in most jurisdictions specifically\nbecause of its acute inhalation hazard.\n\nThis matters directly for our use case: **most smallholder farmers and even most extension\nagents do not have the means, training, or protective equipment to safely self-administer\nphosphine fumigation**, and improper use has caused fatalities in documented cases. This is not\na technique to casually suggest as a home remedy - it should only be recommended in the context\nof contacting a licensed pest control service or agricultural extension office equipped to\ndo it safely, never as a do-it-yourself step."
+  },
+  {
+    "id": "chunk_006",
+    "source_file": "container_cleaning_and_fumigation_safety.md",
+    "heading": "Cleaning storage containers between harvests - What this means for advice given to individual farmers",
+    "text": "When infestation is severe enough that sweeping, sorting, and hermetic storage aren't enough,\nthe appropriate recommendation is to **contact a local agricultural extension office or a\nlicensed fumigation service**, not to describe fumigant handling as if it were a simple home\ntask. Recommending specific fumigants (phosphine, aluminum/magnesium phosphide) without this\ncaveat risks real harm, not just inaccuracy.\n\n*Sources: Alabama Cooperative Extension System / Farm Progress reporting on grain bin\nfumigation practice; Oklahoma State University Extension safety guidance on phosphine\nfumigation hazards and certification requirements; peer-reviewed perspective on phosphine\nfumigation access constraints among resource-limited farmers in Ghana (cross-regionally\nrelevant to Nigeria's smallholder context).*"
+  },
+  {
+    "id": "chunk_007",
+    "source_file": "critical_rule_hermetic_storage_and_drying.md",
+    "heading": "Critical rule: hermetic storage never substitutes for drying - The rule, stated plainly",
+    "text": "This is one of the most important and most easily misapplied rules in this whole knowledge\nbase, worth stating on its own, plainly, separate from the detailed PICS bag instructions:\n\n**A PICS bag, sealed drum, or any other airtight/hermetic container does not dry grain, and\ncannot compensate for incomplete drying.** These containers work by sealing in whatever\nmoisture level the grain already has when it goes in. If grain is too wet when it's sealed,\nthe airtight environment does not remove that moisture - it seals it in, which promotes mould\ngrowth (including aflatoxin-producing fungi) inside a container that looks and feels secure\nfrom the outside. This is arguably more dangerous than an open, breathable traditional sack,\nbecause the problem is invisible until the bag is opened.\n\n**There is no shortcut, no partial credit, and no exception to this**: grain must reach safe\nmoisture content (see moisture_and_drying.md for the specific percentage by crop) *before* it\ngoes into any hermetic container, every single time, regardless of how good the container is,\nhow short on time the farmer is, or how close to the safe threshold the grain seems to already\nbe.\n\nIf asked whether a hermetic bag can help with grain that isn't fully dried yet, isn't dried by\na specific season, doesn't have a full drying window available, or any similar framing - the\nanswer is always the same: no, dry first, then store. Recommending or implying otherwise, even\npartially or as a workaround for a difficult situation, is incorrect and should not happen.\n\n*Source: this is a restatement of the same principle already established in\npics_bags_usage.md and storage_methods_comparison.md, written separately and more forcefully\nhere because it was found to be applied inconsistently across differently-phrased questions\nduring testing (see rag/held_out_test_001_findings.md, ho004 vs ho008).*"
+  },
+  {
+    "id": "chunk_008",
+    "source_file": "data_sources_log.md",
+    "heading": "Data sources log - Primary sources used to build knowledge_base/ (distilled, not reproduced verbatim)",
+    "text": "1. IITA \u2014 *Farmers' Guide to Management of Aflatoxins in Maize and Groundnuts in Africa* (2017,\n   West Africa training manual). Covers aflatoxin biology, risk factors, Aflasafe biocontrol.\n2. Ghana MoFA / CSIR-SARI \u2014 *Appropriate Postharvest Practices for Improved Grain Storage*\n   (2017). Covers moisture testing, drying, mould/aflatoxin management, PICS bag steps.\n3. NSPRI (Nigerian Stored Products Research Institute) \u2014 official site and institutional\n   profile. Covers Nigeria-specific storage structures (maize crib, solar dryer, hermetic\n   containers) and their local-language, community-based extension approach."
+  },
+  {
+    "id": "chunk_009",
+    "source_file": "data_sources_log.md",
+    "heading": "Data sources log - Candidate open datasets for fine-tuning / format reference",
+    "text": "These aren't Nigeria-specific but are useful either as raw material to filter/adapt, or as a\ntemplate for how to structure our own Q&A pairs:\n\n- **KisanVaani/agriculture-qa-english-only** (Hugging Face) \u2014 a general agriculture Q&A pairs\n  dataset, curated from agricultural forums and FAQs. Not African-specific (leans Indian\n  agriculture) but useful for seeing question phrasing patterns and answer structure/length.\n- **Tasfiul/Agricultural-dataset** (Hugging Face, ~175k Q&A rows) \u2014 similar general-purpose\n  agricultural Q&A corpus, referenced in an existing open-source RAG project (Agri-Llama on\n  GitHub) that pairs Llama-2 with FAISS for agricultural question answering \u2014 worth reviewing\n  as an architecture reference even though the underlying data isn't local to our use case.\n- **Lacuna Fund agriculture datasets** \u2014 a program specifically funding African agricultural ML\n  datasets. One listed project collects local-language speech/text data intended to support\n  automatic response systems for agricultural advisories aimed at smallholder farmers \u2014 closely\n  aligned with what we're building, worth investigating directly on lacunafund.org for access\n  terms and whether it covers Nigerian languages (Hausa is the natural fit given maize/groundnut\n  are concentrated in Nigeria's Hausa-speaking north)."
+  },
+  {
+    "id": "chunk_010",
+    "source_file": "data_sources_log.md",
+    "heading": "Data sources log - Local-language resources found (this round)",
+    "text": "- **NaijaVoices** (via Lacuna Fund, 2025) \u2014 a major open dataset: 1,867 hours of speech and\n  roughly 1.9 million transcribed instances across Hausa, Igbo, and Yor\u00f9b\u00e1, from over 5,000\n  speakers. Notably, the project deliberately included agriculture as one of its covered topic\n  areas. This is the single most promising lead for giving our model real exposure to how\n  Nigerian farmers actually talk, not just clean written English. Worth checking directly for\n  agriculture-tagged subsets.\n- **AFRIDOC-MT** \u2014 a document-level machine translation dataset from English into five African\n  languages including Hausa and Yor\u00f9b\u00e1. Useful if we want to translate our English knowledge\n  base and Q&A pairs into Hausa rather than sourcing/writing Hausa content from scratch.\n- **Nigerian Twitter Sentiment Corpus** (Hausa, Igbo, Nigerian-Pidgin, Yor\u00f9b\u00e1; Bayero University\n  / Masakhane) \u2014 sentiment-labelled, not directly usable for our Q&A task, but confirms strong\n  existing NLP tooling and corpora for these languages that a fine-tuning pipeline could draw on."
+  },
+  {
+    "id": "chunk_011",
+    "source_file": "data_sources_log.md",
+    "heading": "Data sources log - Hausa agricultural terms \u2014 starter list (UNVERIFIED, flagged for native-speaker review)",
+    "text": "No verified glossary source was found in this search pass. The terms below are common\ngeneral-knowledge Hausa words for these crops and are included only as a starting point \u2014 they\nshould be confirmed with a native Hausa speaker or the NaijaVoices dataset before being used in\nany user-facing text, since agricultural register and regional dialect variation matter here:\n- masara \u2014 maize\n- gyada \u2014 groundnut\n- dawa \u2014 guinea corn/sorghum\n- hatsi \u2014 grain (general term)\n\nTechnical terms (moisture content, mould, weevil, hermetic storage) were not confidently\nsourced in Hausa this round and should not be guessed at \u2014 this is a gap to close with a native\nspeaker, not something to improvise past."
+  },
+  {
+    "id": "chunk_012",
+    "source_file": "data_sources_log.md",
+    "heading": "Data sources log - Still to source",
+    "text": "- A direct copy of NSPRI's own \"Guide on Post Harvest Handling of Maize\" (referenced often in\n  literature, direct link not yet found)\n- Verified Hausa (and ideally Yoruba/Igbo) technical vocabulary for storage/aflatoxin concepts\n- Any FAO Nigeria country-office postharvest publications\n- Real farmer-phrased questions (forums, past extension agent FAQ logs) to make our synthetic\n  Q&A set sound like how people actually ask, not how a textbook writes"
+  },
+  {
+    "id": "chunk_013",
+    "source_file": "moisture_and_drying.md",
+    "heading": "Moisture and drying - Why moisture matters most",
+    "text": "Grain moisture is the single biggest factor in how long stored grain stays safe. Once the air\ninside a store reaches above roughly 65-70% relative humidity around the grain, mould and\nstorage insects begin to thrive. Getting grain below its \"safe moisture content\" before storage\nis the first line of defence against both insect damage and aflatoxin contamination."
+  },
+  {
+    "id": "chunk_014",
+    "source_file": "moisture_and_drying.md",
+    "heading": "Moisture and drying - Safe moisture content by crop (approximate, at ~27\u00b0C)",
+    "text": "| Crop | Safe moisture content (% wet basis) |\n|---|---|\n| White maize | 13.5% |\n| Yellow maize | 13.0% |\n| Paddy rice | 14.0% |\n| Milled rice | 12.0% |\n| Sorghum | 14.0% |\n| Millet | 14.5% |\n| Cowpea | 14.5% |\n| Soybean | 13.5% |\n| Bambara groundnut | 14.0% |\n| Groundnut (shelled) | 7.0% |\n\nHigher storage temperatures generally call for even lower moisture content. Groundnut needs to\nbe dried much further than cereals before it is safe to bag."
+  },
+  {
+    "id": "chunk_015",
+    "source_file": "moisture_and_drying.md",
+    "heading": "Moisture and drying - How farmers can check moisture without a meter",
+    "text": "A digital moisture meter is the most reliable option, but where one isn't available, farmers use\npractical field tests:\n- **Bite test**: if a grain kernel shatters cleanly between the teeth, it's dry; if it feels sticky\n  or squishes, it still holds too much moisture.\n- **Shake/rattle test**: dry grain makes a sharp rattling sound when shaken in a closed tin or\n  bottle; damp grain sounds dull.\n- **Salt-in-bag test**: a small amount of salt sealed in a nylon bag with grain will show visible\n  wet patches on the nylon if the grain is not yet dry."
+  },
+  {
+    "id": "chunk_016",
+    "source_file": "moisture_and_drying.md",
+    "heading": "Moisture and drying - Drying practice",
+    "text": "- Dry grain on a clean, raised surface \u2014 a tarpaulin or cemented platform \u2014 never directly on\n  bare soil, which reintroduces moisture and contamination.\n- During drying, sort out and remove any immature, insect-damaged, or visibly diseased grain\n  before it mixes with the healthy batch.\n- Grain heaped for drying should be shaped so it stays upright rather than spreading or\n  collapsing \u2014 flat or oversized heaps trap moisture at their centre even when the surface looks\n  dry.\n\n*Sources: IITA Farmers' Guide to Management of Aflatoxins in Maize and Groundnuts in Africa\n(2017); Ghana MoFA/CSIR-SARI, Appropriate Postharvest Practices for Improved Grain Storage\n(2017).*"
+  },
+  {
+    "id": "chunk_017",
+    "source_file": "nigeria_specific_technologies.md",
+    "heading": "Nigeria-specific storage technologies (NSPRI) - Notable NSPRI technologies relevant to maize and groundnut",
+    "text": "**Maize crib** \u2014 a raised, ventilated storage structure designed specifically for unshelled\n(on-the-cob) maize. Airflow through the structure helps continue drying the cob after harvest\nand discourages mould growth, making it a good option where grain has been harvested slightly\nbefore full field-drying is complete.\n\n**Improved hermetic storage (household level)** \u2014 NSPRI-adapted airtight bag/container systems\nsimilar in principle to PICS bags, sized for individual household use rather than bulk\nwarehouse storage.\n\n**Solar dryer** \u2014 a low-cost structure that uses trapped solar heat to accelerate drying beyond\nwhat open sun-drying on a tarpaulin achieves, useful in the humid southern zones where ambient\ndrying is slower and mould risk during the drying window is higher.\n\n**Evaporative cooling chamber** \u2014 primarily used for perishables rather than grain, but relevant\nif this project later expands beyond maize/groundnut into vegetables or fruit storage advice."
+  },
+  {
+    "id": "chunk_018",
+    "source_file": "nigeria_specific_technologies.md",
+    "heading": "Nigeria-specific storage technologies (NSPRI) - Why this matters for local relevance",
+    "text": "NSPRI has specifically prioritised designing training materials in local languages to reach\nfarmers with limited formal literacy, and works through an \"adopted village\" demonstration\nmodel \u2014 testing technologies directly with farming communities and gathering feedback before\nwider rollout. This reinforces that the real bottleneck matches what we identified earlier:\nproven technology exists, but reaching farmers directly, in their own language, at the right\nmoment, is the unsolved part."
+  },
+  {
+    "id": "chunk_019",
+    "source_file": "nigeria_specific_technologies.md",
+    "heading": "Nigeria-specific storage technologies (NSPRI) - Open question to resolve later",
+    "text": "NSPRI's own published guides (e.g. \"Guide on Post Harvest Handling of Maize\") are referenced\nwidely in academic literature but a direct public download link wasn't found in this search\npass \u2014 worth requesting directly from NSPRI or checking their publications page again, since\ntheir content would be the single most locally-authoritative source available.\n\n*Source: Nigerian Stored Products Research Institute (NSPRI) official site and institutional\nprofile; academic literature reviewing NSPRI's postharvest technology role (2022-2023).*"
+  },
+  {
+    "id": "chunk_020",
+    "source_file": "pics_bags_usage.md",
+    "heading": "Using PICS bags correctly - Before filling",
+    "text": "- Only use bags where both inner liners are free of holes or tears \u2014 a punctured liner defeats\n  the airtight seal and the bag will not work as intended.\n- Grain must already be clean (winnowed, debris removed) and dried to safe moisture content\n  before it goes in. PICS bags preserve grain condition; they don't correct grain that went in\n  too wet."
+  },
+  {
+    "id": "chunk_021",
+    "source_file": "pics_bags_usage.md",
+    "heading": "Using PICS bags correctly - Filling and sealing sequence",
+    "text": "1. Separate the three bags so they can be filled one at a time.\n2. Fill the first (innermost) liner with grain, leaving enough neck at the top to tie it off,\n   and gently press to remove trapped air pockets as it fills.\n3. Twist, fold, and tie the first liner securely.\n4. Pull the second liner up over the first and repeat the same tie-off process.\n5. Place both sealed liners inside the outer woven bag and tie that closed too \u2014 this outer\n   layer provides the physical strength for handling and stacking."
+  },
+  {
+    "id": "chunk_022",
+    "source_file": "pics_bags_usage.md",
+    "heading": "Using PICS bags correctly - After sealing",
+    "text": "- Store in a cool, dry room, never directly on bare ground \u2014 use a raised platform, wooden\n  rack, or pallets.\n- Avoid opening and reclosing the bag repeatedly, since each opening lets in fresh oxygen and\n  moisture.\n- Bags can typically be reused for future harvests as long as they remain free of holes."
+  },
+  {
+    "id": "chunk_023",
+    "source_file": "pics_bags_usage.md",
+    "heading": "Using PICS bags correctly - Trade-offs to know",
+    "text": "- Upfront cost is higher than a basic jute or polypropylene sack, and bags may be hard to find\n  in some rural markets.\n- Properly used, grain quality holds up for one to three years without any chemical\n  treatment, and germination rate for stored seed is largely preserved \u2014 a meaningful advantage\n  over untreated traditional storage.\n\n*Source: Ghana MoFA/CSIR-SARI, Appropriate Postharvest Practices for Improved Grain Storage\n(2017); Purdue University PICS program documentation.*"
+  },
+  {
+    "id": "chunk_024",
+    "source_file": "storage_insect_pests.md",
+    "heading": "Storage insect pests - The main culprit: maize weevil (Sitophilus zeamais)",
+    "text": "The maize weevil is consistently identified as one of the most destructive storage pests of\nmaize worldwide, particularly across tropical and subtropical regions. Reported losses\nattributed to this single pest range widely by study \u2014 from roughly 15% up to as much as 90%\nof a stored harvest in worst-case smallholder conditions, with 40% being a commonly cited\naverage figure for developing-country contexts.\n\nHow it causes damage:\n- Adult weevils lay eggs inside individual grain kernels\n- Larvae develop and feed from within the kernel, invisible from the outside until damage is\n  advanced\n- This feeding activity creates small openings in the kernel, which then become entry points\n  for fungi and bacteria \u2014 directly linking insect infestation to elevated mould and aflatoxin\n  risk\n- Beyond direct grain loss, infestation reduces germination rate (a problem if the grain is\n  meant for next season's seed) and lowers both nutritional and market value"
+  },
+  {
+    "id": "chunk_025",
+    "source_file": "storage_insect_pests.md",
+    "heading": "Storage insect pests - Control approaches, in order of what a smallholder can realistically access",
+    "text": "1. **Prevention through hermetic storage** (PICS bags, sealed containers) \u2014 the low-oxygen\n   environment suppresses weevil development without any chemical input, and is the most\n   consistently recommended first-line defence in the literature reviewed for this project.\n2. **Botanical/plant-based control** \u2014 various plant extracts have been studied as\n   insecticide-free alternatives to synthetic chemicals, motivated partly by growing insect\n   resistance to synthetic insecticides and by the health/environmental risks of chemical\n   residue on stored food. This is an active research area rather than a single standardised\n   practice, so specific botanical recommendations should be flagged as \"consult a local\n   extension source\" rather than given definitively.\n3. **Synthetic insecticide dust** \u2014 effective but carries resistance-development risk over time\n   and health/safety handling concerns; treated as a fallback rather than a first recommendation\n   in the source material."
+  },
+  {
+    "id": "chunk_026",
+    "source_file": "storage_insect_pests.md",
+    "heading": "Storage insect pests - Practical implication for the advisor",
+    "text": "When a user describes visible insect damage or holes in stored grain, the appropriate response\nshould flag both the direct loss risk and the compounded aflatoxin risk from insect damage \u2014\nthese two problems reinforce each other and the advice should address both together rather than\ntreating them as separate issues.\n\n*Sources: peer-reviewed research on Sitophilus zeamais biocontrol and storage damage (2023-2024,\nvarious); cross-referenced against PICS/hermetic storage literature already in this knowledge\nbase.*"
+  },
+  {
+    "id": "chunk_027",
+    "source_file": "storage_methods_comparison.md",
+    "heading": "Storage methods compared - The four broad categories",
+    "text": "1. **Traditional structures** \u2014 mud silos, maize cribs, woven baskets. Cheap and familiar, but\n   offer little protection against insects, rodents, or moisture, and are the main reason\n   postharvest losses can run as high as a third of a harvest.\n2. **Improved traditional methods** \u2014 jute or polypropylene sacks, improved mud-silo designs.\n   A modest step up, still vulnerable to pests and humidity swings.\n3. **Improved small-scale methods** \u2014 hermetic (airtight) options like PICS bags, sealed plastic\n   drums, metal silos. These are the recommended tier for most smallholders.\n4. **Large-scale methods** \u2014 metal grain silos, large warehouses \u2014 generally out of reach for\n   individual smallholders, more relevant to cooperatives or aggregators."
+  },
+  {
+    "id": "chunk_028",
+    "source_file": "storage_methods_comparison.md",
+    "heading": "Storage methods compared - Why hermetic storage works",
+    "text": "Hermetic (airtight) storage doesn't use any chemical \u2014 it works by sealing the grain so\ncompletely that insects and microbes inside the container use up the available oxygen and\neffectively suffocate themselves, halting further damage without any added pesticide. This also\nprotects grain that's already dry from picking up new moisture, provided it went in properly\ndried."
+  },
+  {
+    "id": "chunk_029",
+    "source_file": "storage_methods_comparison.md",
+    "heading": "Storage methods compared - General rules that apply across storage types",
+    "text": "- Only store grain that has reached safe moisture content \u2014 hermetic bags don't fix wet grain,\n  they just seal in whatever condition it started in.\n- Clean and, where infestation is suspected, fumigate the storage structure before loading a new\n  harvest.\n- Keep bags or containers off bare floors and away from walls, ideally on a raised\n  platform or pallets.\n- Never combine a new harvest with old stored grain in the same container.\n- Inspect stored grain periodically rather than leaving it completely undisturbed for months.\n\n*Sources: Ghana MoFA/CSIR-SARI, Appropriate Postharvest Practices for Improved Grain Storage\n(2017); Purdue University PICS program documentation.*"
+  }
+]
