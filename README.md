@@ -1,8 +1,7 @@
 # GrainGuard — offline post-harvest storage advisor
 
 ## What this is
-An offline, on-device AI advisor for post-harvest grain storage and aflatoxin prevention,
-built for the Africa Deep Tech Challenge 2026 ("The Laptop LLM"). It targets the health/food-
+An offline, on-device AI advisor for post-harvest grain storage and aflatoxin prevention. It targets the health/food-
 safety and agriculture intersection: a tool an extension agent, agro-dealer, or cooperative
 operator can carry into the field with zero internet connection and get concrete, risk-aware
 storage guidance for maize and groundnut.
